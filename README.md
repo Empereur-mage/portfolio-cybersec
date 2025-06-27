@@ -1,6 +1,11 @@
 # 🛡️ Portfolio Cybersécurité – Empereur Mage
+![Aperçu du portfolio](screenshot.png)
 
 Bienvenue sur mon portfolio personnel dédié à la cybersécurité, au développement Python et à l’automatisation d’outils de défense numérique.
+<p align="center">
+  <img src="screenshot.png" alt="Aperçu du site" width="800"/>
+</p>
+
 
 🎯 Mon objectif : prouver mes compétences pratiques en sécurité informatique et en programmation.
 
